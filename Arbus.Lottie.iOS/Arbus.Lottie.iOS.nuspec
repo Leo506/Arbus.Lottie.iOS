@@ -1,0 +1,12 @@
+<package>
+    <metadata>
+        <id>Arbus.Lottie.iOS</id>
+        <title>Arbus.Lottie.iOS</title>
+        <authors>Artem Levin</authors>
+        <description>Binding library for Lottie iOS</description>
+        <repository>https://github.com/Leo506/Arbus.Lottie.iOS</repository>
+        <projectUrl>https://github.com/Leo506/Arbus.Lottie.iOS</projectUrl>
+        <readme>docs\README.md</readme>
+        <tags>bindings</tags>
+    </metadata>
+</package>
